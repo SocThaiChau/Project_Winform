@@ -1,0 +1,12 @@
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\bin\Debug\BaiTapTuan3.exe.config
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\bin\Debug\BaiTapTuan3.exe
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\bin\Debug\BaiTapTuan3.pdb
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.AssemblyReference.cache
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.SuggestedBindingRedirects.cache
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.frmHocSinh.resources
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.Properties.Resources.resources
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.GenerateResource.cache
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.CoreCompileInputs.cache
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.exe
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.pdb
+D:\HKII-Nam3\LT Window\BaiTapTuan3\BaiTapTuan3\obj\Debug\BaiTapTuan3.frmGiaoVien.resources
